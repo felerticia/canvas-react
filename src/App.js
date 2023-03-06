@@ -1,10 +1,7 @@
+import Canvas from "./Canvas/Canvas";
 
 function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+  return <Canvas width="800" height="800"/>
 }
 
 export default App;
